@@ -2,37 +2,42 @@
     {
         "id": 1,
         "title": "Html",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/SLIVTIM/Dynamic_react_data/refs/heads/main/logo/html_logo.svg",
         "description": "Programming language for building basic structures",
         "level": "beginner"
     },
     {
         "id": 2,
         "title": "Css",
+        "logo": "https://raw.githubusercontent.com/SLIVTIM/Dynamic_react_data/refs/heads/main/logo/css_logo.svg",
         "description": "Programming language for styling Html elements",
         "level": "beginner"
     },
     {
         "id": 3,
         "title": "Javascript",
+        "logo": "https://raw.githubusercontent.com/SLIVTIM/Dynamic_react_data/refs/heads/main/logo/js_logo.svg",
         "description": "Programming language for making website functional",
         "level": "Intermediate"
     },
     {
         "id": 4,
         "title": "React",
+        "logo": "https://raw.githubusercontent.com/SLIVTIM/Dynamic_react_data/refs/heads/main/logo/react_logo.svg",
         "description": "JavaScript library developed to build user interfaces",
         "level": "Advanced"
     },
     {
         "id": 5,
         "title": "Json",
+        "logo": "https://raw.githubusercontent.com/SLIVTIM/Dynamic_react_data/refs/heads/main/logo/json_logo.svg",
         "description": "Programming language made to for back-end processes primarily to make data of something",
         "level": "Intermediate"
     },
     {
         "id": 6,
         "title": "Sql",
+        "logo": "https://raw.githubusercontent.com/SLIVTIM/Dynamic_react_data/refs/heads/main/logo/sql_logo.svg",
         "description": "programming language used to manage, manipulate, and retrieve data from relational databases",
         "level": "beginner"
     }
