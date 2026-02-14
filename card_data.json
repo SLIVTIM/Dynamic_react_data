@@ -4,14 +4,14 @@
         "title": "Html",
         "logo": "https://raw.githubusercontent.com/SLIVTIM/Dynamic_react_data/refs/heads/main/logo/html_logo.svg",
         "description": "Programming language for building basic structures",
-        "level": "beginner"
+        "level": "Beginner"
     },
     {
         "id": 2,
         "title": "Css",
         "logo": "https://raw.githubusercontent.com/SLIVTIM/Dynamic_react_data/refs/heads/main/logo/css_logo.svg",
         "description": "Programming language for styling Html elements",
-        "level": "beginner"
+        "level": "Beginner"
     },
     {
         "id": 3,
@@ -39,6 +39,6 @@
         "title": "Sql",
         "logo": "https://raw.githubusercontent.com/SLIVTIM/Dynamic_react_data/refs/heads/main/logo/sql_logo.svg",
         "description": "programming language used to manage, manipulate, and retrieve data from relational databases",
-        "level": "beginner"
+        "level": "Beginner"
     }
 ]
