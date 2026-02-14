@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Html",
+        "logo": "",
+        "description": "Programming language for building basic structures",
+        "level": "beginner"
+    },
+    {
+        "id": 2,
+        "title": "Css",
+        "description": "Programming language for styling Html elements",
+        "level": "beginner"
+    },
+    {
+        "id": 3,
+        "title": "Javascript",
+        "description": "Programming language for making website functional",
+        "level": "Intermediate"
+    },
+    {
+        "id": 4,
+        "title": "React",
+        "description": "JavaScript library developed to build user interfaces",
+        "level": "Advanced"
+    },
+    {
+        "id": 5,
+        "title": "Json",
+        "description": "Programming language made to for back-end processes primarily to make data of something",
+        "level": "Intermediate"
+    },
+    {
+        "id": 6,
+        "title": "Sql",
+        "description": "programming language used to manage, manipulate, and retrieve data from relational databases",
+        "level": "beginner"
+    }
+]
